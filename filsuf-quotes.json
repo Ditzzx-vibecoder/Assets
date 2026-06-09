@@ -1,0 +1,839 @@
+[
+  {
+    "quote": "Pengetahuan tidak memiliki nilai kecuali jika dipraktekkan.",
+    "philosopher": "Thomas Aquinas"
+  },
+  {
+    "quote": "Aku pikir, maka aku ada.",
+    "philosopher": "René Descartes"
+  },
+  {
+    "quote": "Kita hidup di dunia di mana fakta tidak pernah cukup.",
+    "philosopher": "Hannah Arendt"
+  },
+  {
+    "quote": "Kebenaran tidaklah sulit, tetapi akan sulit diterima.",
+    "philosopher": "Voltaire"
+  },
+  {
+    "quote": "Hidup adalah pilihan yang sulit antara kesulitan dan kenikmatan.",
+    "philosopher": "Aristotle"
+  },
+  {
+    "quote": "Kebahagiaan sejati hanya dapat ditemukan dalam kebijaksanaan.",
+    "philosopher": "Epicurus"
+  },
+  {
+    "quote": "Suatu ide yang berguna lebih berharga daripada kekayaan.",
+    "philosopher": "Socrates"
+  },
+  {
+    "quote": "Tujuan hidup adalah untuk hidup dengan bijaksana dan merenung.",
+    "philosopher": "Plato"
+  },
+  {
+    "quote": "Hakikat kehidupan adalah penderitaan.",
+    "philosopher": "Arthur Schopenhauer"
+  },
+  {
+    "quote": "Mimpi adalah jendela ke dalam alam bawah sadar.",
+    "philosopher": "Sigmund Freud"
+  },
+  {
+    "quote": "Dunia ini adalah sebuah cermin bagi pikiran kita sendiri.",
+    "philosopher": "Baruch Spinoza"
+  },
+  {
+    "quote": "Kita adalah apa yang kita pikirkan.",
+    "philosopher": "Marcus Aurelius"
+  },
+  {
+    "quote": "Kemarahan adalah kehilangan kendali atas emosi.",
+    "philosopher": "Seneca"
+  },
+  {
+    "quote": "Kehendak bebas adalah ilusi.",
+    "philosopher": "Baruch Spinoza"
+  },
+  {
+    "quote": "Kita memahami dunia tidak sebagaimana ia adalah, tetapi sebagaimana kita.",
+    "philosopher": "Immanuel Kant"
+  },
+  {
+    "quote": "Jangan takut akan kesulitan, karena itu adalah kesempatan untuk tumbuh.",
+    "philosopher": "Albert Einstein"
+  },
+  {
+    "quote": "Kita tidak hidup dari apa yang kita miliki, tetapi dari apa yang kita berikan.",
+    "philosopher": "Pablo Picasso"
+  },
+  {
+    "quote": "Kesabaran adalah kekuatan; kebitteran adalah kelemahan.",
+    "philosopher": "Immanuel Kant"
+  },
+  {
+    "quote": "Kebebasan adalah hak setiap individu.",
+    "philosopher": "John Locke"
+  },
+  {
+    "quote": "Cinta adalah kebenaran terbesar dan kebaikan tertinggi.",
+    "philosopher": "Plato"
+  },
+  {
+    "quote": "Kebijaksanaan adalah lebih berharga daripada kekayaan.",
+    "philosopher": "Heraclitus"
+  },
+  {
+    "quote": "Anda tidak dapat menjelekkan tanah di mana Anda berdiri.",
+    "philosopher": "Arthur Schopenhauer"
+  },
+  {
+    "quote": "Hidup tanpa tujuan adalah seperti menelusuri lautan tanpa kompas.",
+    "philosopher": "Thomas Carlyle"
+  },
+  {
+    "quote": "Jika Anda tidak mampu berpikir secara jernih, tidak Anda mempunyai hak untuk bertindak.",
+    "philosopher": "Martin Heidegger"
+  },
+  {
+    "quote": "Ingatlah bahwa kita hanya bisa hidup saat ini, dalam waktu yang sekarang.",
+    "philosopher": "Jean-Paul Sartre"
+  },
+  {
+    "quote": "Hidup tanpa pemikiran adalah seperti berjalan di dalam kegelapan.",
+    "philosopher": "Confucius"
+  },
+  {
+    "quote": "Harapan adalah mimpi dari seorang yang terjaga.",
+    "philosopher": "Aristoteles"
+  },
+  {
+    "quote": "Satu-satunya kebijaksanaan sejati adalah mengetahui bahwa Anda tidak mengetahui apa-apa.",
+    "philosopher": "Socrates"
+  },
+  {
+    "quote": "Kesenangan adalah tujuan dari kehidupan manusia.",
+    "philosopher": "Aristoteles"
+  },
+  {
+    "quote": "Ketidaktahuan adalah akar dari segala kejahatan.",
+    "philosopher": "Socrates"
+  },
+  {
+    "quote": "Tidak ada jalan menuju kebahagiaan, kebahagiaan adalah jalan itu sendiri.",
+    "philosopher": "Lao Tzu"
+  },
+  {
+    "quote": "Kehidupan tanpa filosofi adalah seperti taman tanpa bunga.",
+    "philosopher": "Epictetus"
+  },
+  {
+    "quote": "Mengenal dirimu sendiri adalah awal dari kebijaksanaan.",
+    "philosopher": "Socrates"
+  },
+  {
+    "quote": "Kebenaran hanya bisa ditemukan dengan mempertanyakan segala hal.",
+    "philosopher": "René Descartes"
+  },
+  {
+    "quote": "Ketakutan itu tidak nyata, kecuali jika kita membiarkannya menjadi begitu.",
+    "philosopher": "Arthur C. Clarke"
+  },
+  {
+    "quote": "Jangan takut bahwa hidup akan berakhir, takutlah bahwa tidak akan pernah dimulai.",
+    "philosopher": "Buddha"
+  },
+  {
+    "quote": "Saya tidak setuju dengan apa yang Anda katakan, namun saya akan membela hak Anda untuk mengatakannya.",
+    "philosopher": "Voltaire"
+  },
+  {
+    "quote": "Kita tidak pernah benar-benar sendirian. Pikiran kita selalu menjadi teman yang setia.",
+    "philosopher": "Aristoteles"
+  },
+  {
+    "quote": "Kebijaksanaan adalah mengakui bahwa kita tahu sangat sedikit.",
+    "philosopher": "Socrates"
+  },
+  {
+    "quote": "Segala sesuatu memiliki keindahan, tetapi tidak semua orang bisa melihatnya.",
+    "philosopher": "Confucius"
+  },
+  {
+    "quote": "Ketika kita berbicara, kita hanya mengulangi apa yang sudah kita ketahui. Tetapi ketika kita mendengarkan, kita mungkin belajar sesuatu yang baru.",
+    "philosopher": "Dalai Lama"
+  },
+  {
+    "quote": "Ketidakpastian adalah bagian dari kehidupan. Itu adalah hal yang pasti.",
+    "philosopher": "John Allen Paulos"
+  },
+  {
+    "quote": "Hidup adalah apa yang terjadi saat kita sibuk membuat rencana lain.",
+    "philosopher": "John Lennon"
+  },
+  {
+    "quote": "Kebijaksanaan terletak pada kesederhanaan.",
+    "philosopher": "Socrates"
+  },
+  {
+    "quote": "Cinta adalah kehendak untuk memberi pertanian pada yang dicintai.",
+    "philosopher": "Plato"
+  },
+  {
+    "quote": "Cinta adalah keinginan untuk menjadi satu dengan objek cinta.",
+    "philosopher": "Aristoteles"
+  },
+  {
+    "quote": "Cinta adalah energi universal yang menggerakkan alam semesta.",
+    "philosopher": "Plotinus"
+  },
+  {
+    "quote": "Cinta adalah perasaan yang tidak bisa dijelaskan, tapi dirasakan oleh semua makhluk.",
+    "philosopher": "Saint Augustine"
+  },
+  {
+    "quote": "Cinta adalah kekuatan yang mengubah seseorang menjadi lebih baik.",
+    "philosopher": "Thomas Aquinas"
+  },
+  {
+    "quote": "Cinta adalah kehendak untuk memberi hak kebebasan pada orang yang dicintai.",
+    "philosopher": "Immanuel Kant"
+  },
+  {
+    "quote": "Cinta adalah kemampuan untuk melihat keindahan dalam kekurangan.",
+    "philosopher": "Hegel"
+  },
+  {
+    "quote": "Cinta adalah keinginan untuk mengatasi konflik dan menciptakan kesatuan.",
+    "philosopher": "Kierkegaard"
+  },
+  {
+    "quote": "Cinta adalah keberanian untuk membuka hati dan menyerahkan diri.",
+    "philosopher": "Nietzsche"
+  },
+  {
+    "quote": "Cinta adalah penyatuan dua jiwa yang menciptakan keutuhan.",
+    "philosopher": "Schopenhauer"
+  },
+  {
+    "quote": "Cinta adalah penerimaan sepenuh hati terhadap keunikan orang yang dicintai.",
+    "philosopher": "Martin Buber"
+  },
+  {
+    "quote": "Cinta adalah pengorbanan tanpa pamrih untuk kebahagiaan orang lain.",
+    "philosopher": "Albert Schweitzer"
+  },
+  {
+    "quote": "Cinta adalah kehendak untuk berbagi penderitaan dan kebahagiaan bersama.",
+    "philosopher": "Simone de Beauvoir"
+  },
+  {
+    "quote": "Cinta adalah pengakuan akan keberadaan yang membangkitkan kehidupan.",
+    "philosopher": "Sartre"
+  },
+  {
+    "quote": "Cinta adalah refleksi dari diri kita dalam orang yang kita cintai.",
+    "philosopher": "Levinas"
+  },
+  {
+    "quote": "Cinta adalah persepsi yang memahami yang sejati dari kehidupan.",
+    "philosopher": "Krishnamurti"
+  },
+  {
+    "quote": "Cinta adalah cara untuk menyadari keberadaan kita melalui hubungan dengan orang lain.",
+    "philosopher": "Thich Nhat Hanh"
+  },
+  {
+    "quote": "Cinta adalah jalan pencerahan yang membawa kedamaian dalam diri.",
+    "philosopher": "Lao Tzu"
+  },
+  {
+    "quote": "Cinta adalah energi cinta kasih yang mengalir tanpa batas.",
+    "philosopher": "Dalai Lama"
+  },
+  {
+    "quote": "Cinta adalah jalan menuju kesadaran diri dan pencapaian kebahagiaan sejati.",
+    "philosopher": "Deepak Chopra"
+  },
+  {
+    "quote": "Jangan takut atas kebenaran, meskipun kebenaran akan menyakitkan.",
+    "philosopher": "Ibn Arabi"
+  },
+  {
+    "quote": "Kebenaran adalah cahaya yang menghilangkan kegelapan.",
+    "philosopher": "al-Ghazali"
+  },
+  {
+    "quote": "Hidup adalah perjalanan spiritual menuju kebenaran mutlak.",
+    "philosopher": "Rumi"
+  },
+  {
+    "quote": "Ketika kita memahami diri kita sendiri, kita mendekati pemahaman tentang Tuhan.",
+    "philosopher": "Ibn Sina"
+  },
+  {
+    "quote": "Ketika Allah ingin menghancurkan seseorang, Dia membuatkan dia sibuk dengan dirinya sendiri.",
+    "philosopher": "Ibn Qayyim al-Jawziyya"
+  },
+  {
+    "quote": "Kebijaksanaan sejati adalah mengenal diri sendiri.",
+    "philosopher": "Ali bin Abi Thalib"
+  },
+  {
+    "quote": "Keselamatan adalah hasil akhir dari kesabaran.",
+    "philosopher": "Ibn Taymiyyah"
+  },
+  {
+    "quote": "Kebebasan sejati hanya ditemukan dalam ketaatan kepada Allah.",
+    "philosopher": "Hasan al-Banna"
+  },
+  {
+    "quote": "Harta yang paling berharga adalah hati yang bertakwa.",
+    "philosopher": "Umar bin Khattab"
+  },
+  {
+    "quote": "Ketahuilah bahwa hidup ini adalah ujian yang sebenarnya.",
+    "philosopher": "Ibn Qayyim al-Jawziyya"
+  },
+  {
+    "quote": "Kegigihan adalah kunci kesuksesan dalam pencapaian tujuan.",
+    "philosopher": "Abdul Qadir al-Jilani"
+  },
+  {
+    "quote": "Ketika Anda mencintai seseorang karena Allah, Anda tidak akan pernah kecewa.",
+    "philosopher": "al-Junayd"
+  },
+  {
+    "quote": "Kehidupan adalah pengorbanan untuk mencapai kedamaian batin.",
+    "philosopher": "Ibn Hazm"
+  },
+  {
+    "quote": "Doa adalah senjata terbesar umat manusia.",
+    "philosopher": "Abu Hamid al-Ghazali"
+  },
+  {
+    "quote": "Pikirkanlah sebelum berbicara, karena perkataan memiliki kekuatan yang besar.",
+    "philosopher": "Ali bin Abi Thalib"
+  },
+  {
+    "quote": "Kesempurnaan adalah hasil dari usaha dan keteguhan dalam mengejar kebaikan.",
+    "philosopher": "Ibn Taymiyyah"
+  },
+  {
+    "quote": "Ketika kesulitan datang, ingatlah bahwa Allah selalu bersamamu.",
+    "philosopher": "Jalal ad-Din Rumi"
+  },
+  {
+    "quote": "Orang beriman adalah orang yang berpikir sebelum bertindak.",
+    "philosopher": "Hasan al-Banna"
+  },
+  {
+    "quote": "Pencarian ilmu adalah ibadah yang paling utama.",
+    "philosopher": "Abu Yusuf al-Qadi"
+  },
+  {
+    "quote": "Keadilan adalah tanda kekuatan dan keberanian.",
+    "philosopher": "Ali bin Abi Thalib"
+  },
+  {
+    "quote": "The unexamined life is not worth living.",
+    "philosopher": "Socrates",
+    "translation": "Hidup yang tidak diperiksa tidak layak untuk dijalani."
+  },
+  {
+    "quote": "Life must be understood backward. But it must be lived forward.",
+    "philosopher": "Søren Kierkegaard",
+    "translation": "Hidup harus dipahami ke belakang. Tetapi harus dijalani ke depan."
+  },
+  {
+    "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+    "philosopher": "Abraham Lincoln",
+    "translation": "Pada akhirnya, bukanlah tahun-tahun dalam hidupmu yang penting. Tetapi kehidupan dalam tahun-tahunmu."
+  },
+  {
+    "quote": "Life is what happens when you’re busy making other plans.",
+    "philosopher": "John Lennon",
+    "translation": "Hidup adalah apa yang terjadi ketika kamu sibuk membuat rencana lain."
+  },
+  {
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "philosopher": "Socrates",
+    "translation": "Satu-satunya kebijaksanaan sejati adalah dengan mengetahui bahwa kamu tidak tahu apa-apa."
+  },
+  {
+    "quote": "The purpose of our lives is to be happy.",
+    "philosopher": "Dalai Lama",
+    "translation": "Tujuan hidup kita adalah untuk bahagia."
+  },
+  {
+    "quote": "Life is really simple, but we insist on making it complicated.",
+    "philosopher": "Confucius",
+    "translation": "Hidup sebenarnya sederhana, tetapi kita bersikeras membuatnya rumit."
+  },
+  {
+    "quote": "Life is the art of drawing without an eraser.",
+    "philosopher": "John W. Gardner",
+    "translation": "Hidup adalah seni menggambar tanpa penghapus."
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "philosopher": "Steve Jobs",
+    "translation": "Satu-satunya cara untuk melakukan pekerjaan hebat adalah dengan mencintai apa yang kamu lakukan."
+  },
+  {
+    "quote": "The only thing I know is that I know nothing.",
+    "philosopher": "Socrates",
+    "translation": "Satu-satunya hal yang saya tahu adalah bahwa saya tidak tahu apa-apa."
+  },
+  {
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "philosopher": "Helen Keller",
+    "translation": "Hidup adalah petualangan yang berani atau tidak sama sekali."
+  },
+  {
+    "quote": "The good life is one inspired by love and guided by knowledge.",
+    "philosopher": "Bertrand Russell",
+    "translation": "Hidup yang baik adalah yang terinspirasi oleh cinta dan dipandu oleh pengetahuan."
+  },
+  {
+    "quote": "Life is not a problem to be solved, but a reality to be experienced.",
+    "philosopher": "Søren Kierkegaard",
+    "translation": "Hidup bukanlah masalah yang harus diselesaikan, tetapi realitas yang harus dialami."
+  },
+  {
+    "quote": "Life is what you make it.",
+    "philosopher": "Eleanor Roosevelt",
+    "translation": "Hidup adalah apa yang kamu buat."
+  },
+  {
+    "quote": "Life is the flower for which love is the honey.",
+    "philosopher": "Victor Hugo",
+    "translation": "Hidup adalah bunga di mana cinta adalah madunya."
+  },
+  {
+    "quote": "The only true currency in this bankrupt world is what you share with someone else when you're uncool.",
+    "philosopher": "Philip Seymour Hoffman",
+    "translation": "Satu-satunya mata uang sejati dalam dunia yang bangkrut ini adalah apa yang kamu bagikan dengan orang lain ketika kamu tidak keren."
+  },
+  {
+    "quote": "Life is a journey that must be traveled no matter how bad the roads and accommodations.",
+    "philosopher": "Oliver Goldsmith",
+    "translation": "Hidup adalah perjalanan yang harus dijalani tidak peduli seburuk apa jalan dan akomodasinya."
+  },
+  {
+    "quote": "The meaning of life is to find your gift. The purpose of life is to give it away.",
+    "philosopher": "Pablo Picasso",
+    "translation": "Makna hidup adalah menemukan bakatmu. Tujuan hidup adalah memberikan kepada orang lain."
+  },
+  {
+    "quote": "Embrace the glorious mess that you are.",
+    "philosopher": "Elizabeth Gilbert",
+    "translation": "Peluklah kekacauan yang mulia yang kamu miliki."
+  },
+  {
+    "quote": "Life is a mirror and will reflect back to the thinker what he thinks into it.",
+    "philosopher": "Ernest Holmes",
+    "translation": "Hidup adalah cermin dan akan mencerminkan kembali kepada pemikir apa yang ia pikirkan ke dalamnya."
+  },
+  {
+    "quote": "Hidup yang tidak direnungkan tidak layak untuk dijalani.",
+    "philosopher": "Socrates"
+  },
+  {
+    "quote": "Segala yang saya tahu adalah bahwa saya tidak tahu apa-apa.",
+    "philosopher": "Socrates"
+  },
+  {
+    "quote": "Kebahagiaan tergantung pada diri kita sendiri.",
+    "philosopher": "Aristoteles"
+  },
+  {
+    "quote": "Kita adalah apa yang kita lakukan berulang kali.",
+    "philosopher": "Aristoteles"
+  },
+  {
+    "quote": "Manusia adalah makhluk politik.",
+    "philosopher": "Aristoteles"
+  },
+  {
+    "quote": "Cinta pada kebijaksanaan dimulai dengan keheranan.",
+    "philosopher": "Aristoteles"
+  },
+  {
+    "quote": "Kesempurnaan bukan tindakan tunggal, melainkan kebiasaan.",
+    "philosopher": "Aristoteles"
+  },
+  {
+    "quote": "Ide-ide menguasai dunia.",
+    "philosopher": "Plato"
+  },
+  {
+    "quote": "Keadilan tidak lain adalah kepentingan yang lebih kuat.",
+    "philosopher": "Plato"
+  },
+  {
+    "quote": "Kebijaksanaan dimulai dalam keheranan.",
+    "philosopher": "Socrates"
+  },
+  {
+    "quote": "Satu-satunya kebaikan sejati adalah pengetahuan dan satu-satunya kejahatan adalah kebodohan.",
+    "philosopher": "Socrates"
+  },
+  {
+    "quote": "Kenali dirimu sendiri.",
+    "philosopher": "Thales"
+  },
+  {
+    "quote": "Manusia adalah ukuran dari segala sesuatu.",
+    "philosopher": "Protagoras"
+  },
+  {
+    "quote": "Karakter adalah takdir.",
+    "philosopher": "Heraclitus"
+  },
+  {
+    "quote": "Kita tidak pernah melangkah di sungai yang sama dua kali.",
+    "philosopher": "Heraclitus"
+  },
+  {
+    "quote": "Sesuatu tidak datang dari ketiadaan.",
+    "philosopher": "Parmenides"
+  },
+  {
+    "quote": "Kebajikan adalah pengetahuan.",
+    "philosopher": "Socrates"
+  },
+  {
+    "quote": "Jalan seribu mil dimulai dengan satu langkah.",
+    "philosopher": "Lao Tzu"
+  },
+  {
+    "quote": "Ketika murid siap, guru akan muncul.",
+    "philosopher": "Buddha"
+  },
+  {
+    "quote": "Hidup adalah penderitaan, tapi penderitaan memiliki sebab dan dapat diatasi.",
+    "philosopher": "Buddha"
+  },
+  {
+    "quote": "Kebenaran sejati tidak takut diselidiki.",
+    "philosopher": "Buddha"
+  },
+  {
+    "quote": "Pikiran adalah segalanya. Apa yang kau pikirkan, kau akan menjadi itu.",
+    "philosopher": "Buddha"
+  },
+  {
+    "quote": "Mereka yang tahu tidak bicara, mereka yang bicara tidak tahu.",
+    "philosopher": "Lao Tzu"
+  },
+  {
+    "quote": "Yang lembut dan lemah mengalahkan yang keras dan kuat.",
+    "philosopher": "Lao Tzu"
+  },
+  {
+    "quote": "Mengetahui orang lain adalah kecerdasan; mengetahui diri sendiri adalah kebijaksanaan sejati.",
+    "philosopher": "Lao Tzu"
+  },
+  {
+    "quote": "Manusia unggul berpikir tentang yang benar; manusia rendah berpikir tentang keuntungan.",
+    "philosopher": "Konfusius"
+  },
+  {
+    "quote": "Belajar tanpa berpikir adalah usaha sia-sia; berpikir tanpa belajar berbahaya.",
+    "philosopher": "Konfusius"
+  },
+  {
+    "quote": "Jangan lakukan pada orang lain apa yang tidak ingin kau alami sendiri.",
+    "philosopher": "Konfusius"
+  },
+  {
+    "quote": "Kesalahan terbesar adalah tidak memperbaiki kesalahan.",
+    "philosopher": "Konfusius"
+  },
+  {
+    "quote": "Kebahagiaan tidak terletak pada kekayaan dan kehormatan, juga tidak pada kesehatan atau kenikmatan.",
+    "philosopher": "Chuang Tzu"
+  },
+  {
+    "quote": "Hidup adalah apa yang terjadi ketika kau sibuk membuat rencana lain.",
+    "philosopher": "John Lennon",
+    "translation": "terinspirasi filsafat timur"
+  },
+  {
+    "quote": "Aku berpikir, maka aku ada.",
+    "philosopher": "René Descartes"
+  },
+  {
+    "quote": "Manusia dilahirkan bebas, namun di mana-mana ia terbelenggu.",
+    "philosopher": "Jean-Jacques Rousseau"
+  },
+  {
+    "quote": "Beranilah menggunakan akal budimu sendiri!",
+    "philosopher": "Immanuel Kant"
+  },
+  {
+    "quote": "Bertindaklah hanya menurut maksim yang kau kehendaki menjadi hukum universal.",
+    "philosopher": "Immanuel Kant"
+  },
+  {
+    "quote": "Manusia adalah tujuan dalam dirinya sendiri.",
+    "philosopher": "Immanuel Kant"
+  },
+  {
+    "quote": "Kebebasan adalah hak untuk melakukan apapun yang diizinkan oleh hukum.",
+    "philosopher": "Montesquieu"
+  },
+  {
+    "quote": "Semua binatang sama, tetapi beberapa binatang lebih sama dari yang lain.",
+    "philosopher": "George Orwell"
+  },
+  {
+    "quote": "Jika Tuhan tidak ada, segala sesuatu diperbolehkan.",
+    "philosopher": "Fyodor Dostoevsky"
+  },
+  {
+    "quote": "Manusia adalah serigala bagi manusia lainnya.",
+    "philosopher": "Thomas Hobbes"
+  },
+  {
+    "quote": "Pengetahuan adalah kekuasaan.",
+    "philosopher": "Francis Bacon"
+  },
+  {
+    "quote": "Segala yang baik adalah mudah dilakukan.",
+    "philosopher": "Blaise Pascal"
+  },
+  {
+    "quote": "Hati memiliki alasan yang tidak dikenal oleh nalar.",
+    "philosopher": "Blaise Pascal"
+  },
+  {
+    "quote": "Kita hanya punya satu kewajiban: menjadi bahagia.",
+    "philosopher": "Denis Diderot"
+  },
+  {
+    "quote": "Kebebasan adalah hak untuk mengatakan pada orang lain apa yang tidak ingin mereka dengar.",
+    "philosopher": "George Orwell"
+  },
+  {
+    "quote": "Manusia dikutuk untuk bebas.",
+    "philosopher": "Jean-Paul Sartre"
+  },
+  {
+    "quote": "Neraka adalah orang lain.",
+    "philosopher": "Jean-Paul Sartre"
+  },
+  {
+    "quote": "Hidup harus dipahami mundur, tetapi harus dijalani maju.",
+    "philosopher": "Søren Kierkegaard"
+  },
+  {
+    "quote": "Kecemasan adalah pusing kebebasan.",
+    "philosopher": "Søren Kierkegaard"
+  },
+  {
+    "quote": "Ketika kau menatap jurang, jurang itu juga menatapmu.",
+    "philosopher": "Friedrich Nietzsche"
+  },
+  {
+    "quote": "Apa yang tidak membunuhmu membuatmu lebih kuat.",
+    "philosopher": "Friedrich Nietzsche"
+  },
+  {
+    "quote": "Tuhan telah mati.",
+    "philosopher": "Friedrich Nietzsche"
+  },
+  {
+    "quote": "Tidak ada fakta, hanya interpretasi.",
+    "philosopher": "Friedrich Nietzsche"
+  },
+  {
+    "quote": "Manusia adalah tali yang terentang antara binatang dan manusia super.",
+    "philosopher": "Friedrich Nietzsche"
+  },
+  {
+    "quote": "Absurditas muncul dari konfrontasi antara panggilan manusia dan keheningan dunia.",
+    "philosopher": "Albert Camus"
+  },
+  {
+    "quote": "Satu-satunya pertanyaan filosofis yang benar-benar serius adalah bunuh diri.",
+    "philosopher": "Albert Camus"
+  },
+  {
+    "quote": "Dalam kedalaman musim dingin, akhirnya aku belajar bahwa dalam diriku ada musim panas yang tak terkalahkan.",
+    "philosopher": "Albert Camus"
+  },
+  {
+    "quote": "Manusia adalah makhluk yang terlalu mengerikan untuk dipikirkan.",
+    "philosopher": "Simone de Beauvoir"
+  },
+  {
+    "quote": "Seseorang tidak dilahirkan sebagai perempuan, tetapi menjadi perempuan.",
+    "philosopher": "Simone de Beauvoir"
+  },
+  {
+    "quote": "Kebebasan adalah kemampuan untuk memilih belenggu kita.",
+    "philosopher": "Jean-Paul Sartre"
+  },
+  {
+    "quote": "Kebenaran adalah apa yang berhasil.",
+    "philosopher": "William James"
+  },
+  {
+    "quote": "Kehidupan yang hebat adalah pikiran yang hebat.",
+    "philosopher": "William James"
+  },
+  {
+    "quote": "Percayalah pada kebenaran; bicaralah kebenaran; praktikkan kebenaran.",
+    "philosopher": "Swami Vivekananda"
+  },
+  {
+    "quote": "Pengalaman bukanlah apa yang terjadi padamu, melainkan apa yang kau lakukan dengan apa yang terjadi padamu.",
+    "philosopher": "Aldous Huxley"
+  },
+  {
+    "quote": "Yang tidak dapat diungkapkan harus dilewati dalam diam.",
+    "philosopher": "Ludwig Wittgenstein"
+  },
+  {
+    "quote": "Batas-batas bahasaku adalah batas-batas duniaku.",
+    "philosopher": "Ludwig Wittgenstein"
+  },
+  {
+    "quote": "Filsafat adalah pertempuran melawan kebingungan intelek kita.",
+    "philosopher": "Ludwig Wittgenstein"
+  },
+  {
+    "quote": "Tidak ada kepastian kecuali kematian dan pajak.",
+    "philosopher": "Benjamin Franklin"
+  },
+  {
+    "quote": "Secuil pengalaman lebih berharga daripada satu ton teori.",
+    "philosopher": "John Dewey"
+  },
+  {
+    "quote": "Kita tidak belajar dari pengalaman; kita belajar dari merefleksikan pengalaman.",
+    "philosopher": "John Dewey"
+  },
+  {
+    "quote": "Manusia adalah tujuan dalam dirinya sendiri dan tidak boleh dijadikan sarana.",
+    "philosopher": "Immanuel Kant"
+  },
+  {
+    "quote": "Moralitas hanya ada dalam tindakan, bukan dalam kata-kata.",
+    "philosopher": "Jean-Paul Sartre"
+  },
+  {
+    "quote": "Kebaikan tanpa pengetahuan sering kali sama berbahayanya dengan kejahatan yang disengaja.",
+    "philosopher": "Bertrand Russell"
+  },
+  {
+    "quote": "Moral yang kaku biasanya merupakan tanda dari pikiran yang sempit.",
+    "philosopher": "Hannah Arendt"
+  },
+  {
+    "quote": "Kekerasan menciptakan lebih banyak masalah sosial daripada yang dipecahkannya.",
+    "philosopher": "Martin Luther King Jr."
+  },
+  {
+    "quote": "Karakter tidak dapat dikembangkan dalam ketenangan dan ketentraman. Hanya melalui pengalaman ujian dan penderitaan jiwa dapat dikuatkan.",
+    "philosopher": "Helen Keller"
+  },
+  {
+    "quote": "Kemiskinan adalah bentuk kekerasan paling mengerikan.",
+    "philosopher": "Mahatma Gandhi"
+  },
+  {
+    "quote": "Mata dibalas mata hanya akan membuat seluruh dunia buta.",
+    "philosopher": "Mahatma Gandhi"
+  },
+  {
+    "quote": "Kebahagiaan adalah ketika apa yang kau pikirkan, apa yang kau katakan, dan apa yang kau lakukan berada dalam harmoni.",
+    "philosopher": "Mahatma Gandhi"
+  },
+  {
+    "quote": "Semua kebenaran melewati tiga tahap: Pertama, ia ditertawakan. Kedua, ia ditentang dengan keras. Ketiga, ia diterima sebagai jelas dengan sendirinya.",
+    "philosopher": "Arthur Schopenhauer"
+  },
+  {
+    "quote": "Kekuasaan ada di mana-mana karena ia berasal dari mana-mana.",
+    "philosopher": "Michel Foucault"
+  },
+  {
+    "quote": "Kehidupan yang tidak teruji tidak layak untuk dijalani.",
+    "philosopher": "Hannah Arendt"
+  },
+  {
+    "quote": "Kebebasan adalah apa yang kau lakukan dengan apa yang telah dilakukan padamu.",
+    "philosopher": "Jean-Paul Sartre"
+  },
+  {
+    "quote": "Ketika kau mengubah cara memandang sesuatu, sesuatu yang kau pandang berubah.",
+    "philosopher": "Marcus Aurelius"
+  },
+  {
+    "quote": "Kemenangan terbesar adalah kemenangan atas diri sendiri.",
+    "philosopher": "Plato"
+  },
+  {
+    "quote": "Hidup adalah perjalanan untuk menemukan kebenaran.",
+    "philosopher": "Soren Kierkegaard"
+  },
+  {
+    "quote": "Kebebasan bukanlah melakukan apa yang kita inginkan, tetapi memiliki hak untuk melakukan apa yang seharusnya.",
+    "philosopher": "Abraham Lincoln"
+  },
+  {
+    "quote": "Kau tidak dapat menyelesaikan masalah dengan pemikiran yang sama yang menciptakannya.",
+    "philosopher": "Albert Einstein"
+  },
+  {
+    "quote": "Tindakan kecil dilakukan dengan cinta lebih baik daripada tindakan besar tanpa cinta.",
+    "philosopher": "Mother Teresa"
+  },
+  {
+    "quote": "Ketidakadilan di mana pun adalah ancaman bagi keadilan di mana-mana.",
+    "philosopher": "Martin Luther King Jr."
+  },
+  {
+    "quote": "Cinta dan lakukan apa yang kau kehendaki.",
+    "philosopher": "Augustine dari Hippo"
+  },
+  {
+    "quote": "Kerendahan hati adalah fondasi dari semua kebajikan.",
+    "philosopher": "Konfusius"
+  },
+  {
+    "quote": "Orang bijak bicara karena mereka memiliki sesuatu untuk dikatakan; orang bodoh bicara karena mereka harus mengatakan sesuatu.",
+    "philosopher": "Plato"
+  },
+  {
+    "quote": "Hidup beberapa hari sebagai singa lebih baik daripada seratus tahun sebagai domba.",
+    "philosopher": "Benito Mussolini"
+  },
+  {
+    "quote": "Dunia ini adalah panggung, dan semua pria dan wanita sekadar pemain.",
+    "philosopher": "William Shakespeare"
+  },
+  {
+    "quote": "Kematian mengakhiri hidup, bukan hubungan.",
+    "philosopher": "Mitch Albom"
+  },
+  {
+    "quote": "Pendidikan adalah senjata paling ampuh yang dapat kau gunakan untuk mengubah dunia.",
+    "philosopher": "Nelson Mandela"
+  },
+  {
+    "quote": "Tidak ada yang lebih berbahaya daripada ide ketika itu adalah satu-satunya yang kau miliki.",
+    "philosopher": "Émile-Auguste Chartier"
+  },
+  {
+    "quote": "Penderitaan dapat menjadi guru terbaik, jika kau tinggal bersamanya cukup lama.",
+    "philosopher": "Buddha"
+  },
+  {
+    "quote": "Manusia yang benar-benar bijak adalah dia yang tahu bahwa dia tidak tahu.",
+    "philosopher": "Socrates"
+  }
+]
