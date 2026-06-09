@@ -1,0 +1,559 @@
+{
+  "quotes": [
+    {
+      "quote": "Hidup adalah mencoba berbagai hal untuk melihat apakah itu berhasil.",
+      "figure": "Ray Bradbury",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Sebarkan cinta ke mana pun Anda pergi. Jangan biarkan seorang pun datang kepada Anda tanpa meninggalkannya dengan perasaan bahagia.",
+      "figure": "Bunda Teresa",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Hidup adalah petualangan yang berani atau tidak sama sekali.",
+      "figure": "Helen Keller",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Anda hanya hidup sekali, tetapi jika Anda melakukannya dengan benar, sekali saja sudah cukup.",
+      "figure": "Mae West",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Hanya ada satu kepastian dalam hidup, yaitu tidak ada yang pasti.",
+      "figure": "GK Chesterton",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Dalam tiga kata, saya dapat menyimpulkan semua yang telah saya pelajari tentang kehidupan: hidup terus berjalan.",
+      "figure": "Robert Frost",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Hal-hal terbaik dan terindah di dunia tidak dapat dilihat atau bahkan disentuh - semua itu harus dirasakan dengan hati.",
+      "figure": "Helen Keller",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Hidup itu sendiri adalah dongeng yang paling indah.",
+      "figure": "Hans Christian Andersen",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Dalam hidup ini kita tidak bisa melakukan hal-hal besar. Kita hanya bisa melakukan hal-hal kecil dengan cinta yang besar.",
+      "figure": "Bunda Teresa",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Hidup adalah pelajaran panjang tentang kerendahan hati.",
+      "figure": "James M. Barrie",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Kegelapan tidak dapat mengusir kegelapan: hanya cahaya yang dapat melakukannya. Kebencian tidak dapat mengusir kebencian: hanya cinta yang dapat melakukannya.",
+      "figure": "Martin Luther King Jr",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Hidup ini sebenarnya sederhana, tetapi kita bersikeras membuatnya menjadi rumit.",
+      "figure": "Konfusius",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Jika hidup dapat diprediksi, maka hidup akan berhenti menjadi hidup dan tidak memiliki rasa.",
+      "figure": "Eleanor Roosevelt",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Tujuan hidup kita adalah untuk menjadi bahagia.",
+      "figure": "Dalai Lama",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Anda akan menghadapi banyak kekalahan dalam hidup, tetapi jangan pernah membiarkan diri Anda dikalahkan.",
+      "figure": "Maya Angelou",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Satu-satunya perjalanan yang mustahil adalah perjalanan yang tidak pernah Anda mulai.",
+      "figure": "Tony Robbins",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Jalan menuju kesuksesan dan jalan menuju kegagalan hampir sama persis.",
+      "figure": "Colin R. Davis",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Kemuliaan terbesar dalam hidup bukan terletak pada tidak pernah jatuh, tetapi bangkit setiap kali kita jatuh.",
+      "figure": "Nelson Mandela",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Pada saat-saat tergelaplah kita harus fokus untuk melihat cahaya.",
+      "figure": "Aristoteles",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Banyak kegagalan dalam hidup adalah orang-orang yang tidak menyadari betapa dekatnya mereka dengan kesuksesan ketika mereka menyerah.",
+      "figure": "Thomas A. Edison",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Kesuksesan bukanlah hal yang final; kegagalan bukanlah hal yang fatal: Yang terpenting adalah keberanian untuk terus maju.",
+      "figure": "Winston S. Churchill",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Cara untuk memulai adalah dengan berhenti berbicara dan mulai melakukan.",
+      "figure": "Walt Disney",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Tidak ada rahasia untuk sukses. Itu adalah hasil dari persiapan, kerja keras, dan belajar dari kegagalan.",
+      "figure": "Colin Powell",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Untuk menjadi sukses, Anda harus egois, atau Anda tidak akan pernah mencapainya. Dan begitu Anda mencapai level tertinggi, maka Anda harus tidak egois.",
+      "figure": "Michael Jordan",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Lebih baik gagal dalam orisinalitas daripada berhasil dalam peniruan.",
+      "figure": "Herman Melville",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Jangan tinggalkan apa pun untuk hari esok yang bisa dilakukan hari ini.",
+      "figure": "Abraham Lincoln",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Kesuksesan biasanya datang pada mereka yang terlalu sibuk untuk mencarinya.",
+      "figure": "Henry David Thoreau",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Jika Anda ingin mewujudkan impian Anda, hal pertama yang harus Anda lakukan adalah bangun.",
+      "figure": "J.M. Power",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Satu-satunya tempat di mana kesuksesan datang sebelum bekerja adalah di kamus.",
+      "figure": "Vidal Sassoon",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Rahasia kesuksesan adalah melakukan hal yang biasa dengan sangat baik.",
+      "figure": "John D. Rockefeller Jr",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Menjadi diri sendiri di dunia yang terus-menerus berusaha menjadikan Anda orang lain adalah pencapaian terbesar.",
+      "figure": "Ralph Waldo Emerson",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Satu-satunya hal yang harus kita takuti adalah rasa takut itu sendiri.",
+      "figure": "Franklin D. Roosevelt",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Jadilah diri Anda sendiri; semua orang sudah menjadi orang lain.",
+      "figure": "Oscar Wilde",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Ketika Anda meremehkan apa yang Anda lakukan, dunia akan meremehkan siapa Anda.",
+      "figure": "Oprah Winfrey",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Jangan takut untuk takut.",
+      "figure": "Maurice Chevalier",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Cobalah untuk tidak menjadi orang yang sukses. Sebaliknya, jadilah orang yang bernilai.",
+      "figure": "Albert Einstein",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Jadilah seperti bebek. Tenang di permukaan tapi selalu mengayuh seperti ayam di bawahnya.",
+      "figure": "Michael Caine",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Semakin bertambahnya usia, semakin kamu menyadari bahwa kebaikan identik dengan kebahagiaan.",
+      "figure": "Lionel Barrymore",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Jangan khawatir jika Anda tidak diakui, tetapi berusahalah untuk menjadi layak diakui.",
+      "figure": "Abraham Lincoln",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Jangan menunggu orang lain membahagiakanmu. Kebahagiaan apa pun yang Anda peroleh, harus Anda ciptakan sendiri.",
+      "figure": "Alice Walker",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Bukan melakukan apa yang kamu sukai, tetapi menyukai apa yang kamu lakukan adalah rahasia kebahagiaan.",
+      "figure": "JM Barrie",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Kamu menjadi apa yang kamu yakini.",
+      "figure": "Oprah Winfrey",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Anda memiliki otak di kepala Anda. Anda memiliki kaki di sepatu Anda. Anda dapat mengarahkan diri Anda ke arah mana pun yang Anda pilih.",
+      "figure": "Dr. Seuss",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Siapa pun yang memberi tahu Anda bahwa uang tidak bisa membeli kebahagiaan, tidak pernah memilikinya.",
+      "figure": "Samuel L. Jackson",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Nothing is impossible, the word itself says, 'I'm possible!'",
+      "figure": "Audrey Hepburn",
+      "source": "wolipop"
+    },
+    {
+      "quote": "I would rather die of passion than of boredom.",
+      "figure": "Vincent van Gogh",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Well done is better than well said.",
+      "figure": "Benjamin Franklin",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Do not let making a living prevent you from making a life.",
+      "figure": "John Wooden",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Happiness often sneaks in through a door you didn't know you left open.",
+      "figure": "John Barrymore",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Life does not have to be perfect to be wonderful.",
+      "figure": "Annette Funicello",
+      "source": "wolipop"
+    },
+    {
+      "quote": "The best way to predict the future is to create it.",
+      "figure": "Peter F. Drucker",
+      "source": "wolipop"
+    },
+    {
+      "quote": "If you have a job without any aggravations, you don't have a job.",
+      "figure": "Malcolm Forbes",
+      "source": "wolipop"
+    },
+    {
+      "quote": "The beautiful thing about learning is nobody can take it away from you.",
+      "figure": "B.B. King",
+      "source": "wolipop"
+    },
+    {
+      "quote": "They always say time changes things, but you actually have to change them yourself.",
+      "figure": "Andy Warhol",
+      "source": "wolipop"
+    },
+    {
+      "quote": "You can have it all. You just can't have it all at once.",
+      "figure": "Oprah Winfrey",
+      "source": "wolipop"
+    },
+    {
+      "quote": "I find that the harder I work, the more luck I seem to have.",
+      "figure": "Thomas Jefferson",
+      "source": "wolipop"
+    },
+    {
+      "quote": "What do we live for if it is not to make life less difficult for each other.",
+      "figure": "George Eliot",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Always forgive your enemies; nothing annoys them so much.",
+      "figure": "Oscar Wilde",
+      "source": "wolipop"
+    },
+    {
+      "quote": "Beberapa orang memimpikan kesuksesan, sementara yang lain bangun setiap pagi untuk mewujudkannya.",
+      "figure": "Wayne Huizenga",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Pekerjaan-pekerjaan kecil yang selesai dilakukan lebih baik daripada rencana-rencana besar yang hanya didiskusikan.",
+      "figure": "Peter Marshall",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Kita harus berarti untuk diri kita sendiri dulu sebelum kita menjadi orang yang berharga bagi orang lain.",
+      "figure": "Ralph Waldo Emerson",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Seseorang yang berani membuang satu jam waktunya tidak mengetahui nilai dari kehidupan.",
+      "figure": "Charles Darwin",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Apa yang kita pikirkan menentukan apa yang akan terjadi pada kita. Jadi jika kita ingin mengubah hidup, kita perlu sedikit mengubah pikiran kita.",
+      "figure": "Wayne Dyer",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Tidak apa-apa untuk merayakan kesuksesan, tapi lebih penting untuk memperhatikan pelajaran tentang kegagalan.",
+      "figure": "Bill Gates",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Tujuan pendidikan itu untuk mempertajam kecerdasan, memperkukuh kemauan serta memperhalus perasaan.",
+      "figure": "Tan Malaka",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Hanya pendidikan yang bisa menyelamatkan masa depan, tanpa pendidikan Indonesia tak mungkin bertahan.",
+      "figure": "Najwa Shihab",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Rahasia sukses adalah melakukan hal-hal umum yang luar biasa dengan baik.",
+      "figure": "John D. Rockefeller",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Ada dua jenis orang di dunia ini: mereka yang ingin menyelesaikan sesuatu dan mereka yang tidak ingin membuat kesalahan.",
+      "figure": "John Maxwell",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Jika itu penting bagi Anda, Anda akan menemukan jalan. Jika tidak, Anda akan menemukan alasan.",
+      "figure": "Ryan Blair",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Jangan katakan Anda tidak punya cukup waktu. Anda memiliki jumlah jam yang persis sama per hari yang diberikan kepada Helen Keller, Pasteur, Michelangelo, Mother Teresea, Leonardo da Vinci, Thomas Jefferson, dan Albert Einstein.",
+      "figure": "H. Jackson Brown Jr",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Apa yang kita pikirkan menentukan apa yang akan terjadi pada kita. Jadi jika kita ingin mengubah hidup kita, kita perlu sedikit mengubah pikiran kita.",
+      "figure": "Wayne Dyer",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Ia yang mengerjakan lebih dari apa yang dibayar pada suatu saat akan dibayar lebih dari apa yang ia kerjaka.",
+      "figure": "Napoleon Hill",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Kehidupan adalah 10 persen apa yang terjadi pada Anda dan 90 persen adalah bagaimana Anda meresponnya.",
+      "figure": "Lou Holtz",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Tak ada jalan pintas ke tempat yang layak dituju.",
+      "figure": "Beverly Sills",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Apa yang aku ingat tentang sekolah adalah kenangan-kenangan yang aku buat bersama teman-teman.",
+      "figure": "J. J. Watt, Atlet American Football",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Kalau mau menunggu sampai siap, kita akan menghabiskan sisa hidup kita hanya untuk menunggu.",
+      "figure": "Lemony Snicket",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Pendidikan adalah satu-satunya kunci untuk membuka dunia ini, serta paspor untuk menuju kebebasan.",
+      "figure": "Oprah Winfrey",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Ikhlaslah belajar. Bahkan yang paling berilmu dan bijak di antara kita masih rajin belajar.",
+      "figure": "Mario Teguh",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Anda tidak akan pernah belajar sabar dan berani jika di dunia ini hanya ada kebahagiaan.",
+      "figure": "Helen Keller",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Kebahagiaan kita tergantung pada diri kita sendiri.",
+      "figure": "Aristoteles",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Seseorang yang pernah melakukan kesalahan dan tidak pernah memperbaikinya berarti Ia telah melakukan satu kesalahan lagi.",
+      "figure": "Konfusius",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Uang tidak pernah membuat manusia bahagia. Uang tidak ada bersifat untuk menghasilkan kebahagiaan. Semakin seseorang memilikinya, semakin dia menginginkannya.",
+      "figure": "Benjamin Franklin",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Orang yang tak pernah membaca buku sama buruknya dengan mereka yang tak bisa membaca buku.",
+      "figure": "Mark Twain",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Fokuslah menjadi produktif, bukan sekadar sibuk saja.",
+      "figure": "Tim Ferris",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Jangan pernah menganggap belajar sebagai tugas, tetapi anggaplah sebagai kesempatan berharga untuk mempelajari sesuatu.",
+      "figure": "Albert Einstein",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Belajarlah sebanyak kau bisa selagi muda, karena hidup nanti menjadi terlalu sibuk.",
+      "figure": "Dana Stewart Scott",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Kapasitas masa depanmu bergantung pada buku apa yang kamu baca dan dengan siapa kamu bergaul.",
+      "figure": "Bong Candra",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Masa depan memberi penghargaan bagi mereka yang terus maju. Saya tidak punya waktu untuk mengasihani diri sendiri. Saya tidak punya waktu untuk mengeluh.",
+      "figure": "Barack Obama",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Barangsiapa yang keluar untuk mencari ilmu, maka ia berada di jalan Allah hingga ia pulang.",
+      "figure": "HR. Turmudzi",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Pembelajaran tidak didapat dengan kebetulan. Ia harus dicari dengan semangat dan disimak dengan tekun.",
+      "figure": "Abigail Adams",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Engkau tak dapat meraih ilmu kecuali dengan enam hal, yakni: cerdas, selalu ingin tahu, tabah, punya bekal dalam menuntut ilmu, bimbingan dari guru, dan dalam waktu yang lama.",
+      "figure": "Ali bin Abu Thalib",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Tuntutlah ilmu, disaat kamu miskin, ia akan menjadi hartamu. Disaat kamu kaya, ia akan menjadi perhiasanmu.",
+      "figure": "Luqman Al-Hakim",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Kepengecutan yang paling besar adalah ketika kita membuktikan kekuatan kita kepada kelemahan orang lain.",
+      "figure": "Jacques Audiberti",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Barangsiapa tidak mau merasakan pahitnya belajar, ia akan merasakan hinanya kebodohan sepanjang hidupnya.",
+      "figure": "Imam Syafi'i rahimahullah",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Pendidikan bukan cuma pergi ke sekolah dan mendapatkan gelar. Tapi, juga soal memperluas pengetahuan dan menyerap ilmu kehidupan",
+      "figure": "Shakuntala Devi",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Hidup itu seperti bersepeda. Kalau kamu ingin menjaga keseimbanganmu, kamu harus terus bergerak maju.",
+      "figure": "Albert Einstein",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Kalau impianmu tak bisa membuatmu takut, mungkin karena impianmu tak cukup besar.",
+      "figure": "Muhammad Ali",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Hidup itu bukan soal menemukan diri Anda sendiri, hidup itu membuat diri Anda sendiri.",
+      "figure": "George Bernard Shaw",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Hidup yang baik adalah hidup yang diinspirasi oleh cinta dan dipandu oleh ilmu pengetahuan.",
+      "figure": "Bertrand Russell",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Pendidikan adalah senjata paling ampuh untuk mengubah dunia.",
+      "figure": "Nelson Mandela",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Usaha dan keberanian tidak cukup tanpa tujuan dan arah perencanaan.",
+      "figure": "John F. Kennedy",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Anda mungkin bisa menunda, tapi waktu tidak akan menunggu.",
+      "figure": "Benjamin Franklin",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Kamu tidak perlu menjadi luar biasa untuk memulai, tapi kamu harus memulai untuk menjadi luar biasa.",
+      "figure": "Zig Ziglar",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Jangan habiskan waktumu memukuli dinding dan berharap bisa mengubahnya menjadi pintu.",
+      "figure": "Coco Canel",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Tidak ada yang akan berhasil kecuali kau melakukannya.",
+      "figure": "Maya Angelou",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Kamu tidak bisa kembali dan mengubah awal saat kamu memulainya, tapi kamu bisa memulainya lagi dari mana kamu berada sekarang dan ubah akhirnya.",
+      "figure": "C.S Lewis",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Pendidikan itu bukan sebuah produk seperti gelar, diploma, pekerjaan, atau uang yang dihasilkan; pendidikan itu suatu proses yang tak akan pernah berakhir.",
+      "figure": "Bel Kaufman",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Dunia ini cukup untuk memenuhi kebutuhan manusia, bukan untuk memenuhi keserakahan manusia.",
+      "figure": "Mahatma Gandhi",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Hidup itu sederhana, kita yang membuatnya sulit.",
+      "figure": "Confucius",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Kenyataannya, ada tidak tahu apa yang akan terjadi besok. Hidup adalah pengendaraan yang gila dan tidak ada yang menjaminnya.",
+      "figure": "Eminem",
+      "source": "liputan6"
+    },
+    {
+      "quote": "Hidup adalah mimpi bagi mereka yang bijaksana, permainan bagi mereka yang bodoh, komedi bagi mereka yang kaya, dan tragedi bagi mereka yang miskin.",
+      "figure": "Sholom Aleichem",
+      "source": "liputan6"
+    }
+  ]
+}
